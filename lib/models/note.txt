@@ -1,0 +1,12 @@
+{
+    'title' : 'KYC',
+
+    'questions' :
+    [
+        {'question':'What is your name','options':['Michael','George','Tara','Chelsea']},
+        {'question':'What is your religion','options':['Christianity','Islam','Evolutionist','Hinduism']},
+        {'question':'What is Nationality','options':['Nigeria','Benin','Ghana','Togo']},
+        {'question':'Select your Continent','options':['Asia','Africa','Australia','Europe','Americas']},
+
+    ]
+}
